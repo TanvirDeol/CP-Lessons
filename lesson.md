@@ -1,6 +1,6 @@
 # <div align="center">**Breadth First Search vs Depth First Search**
 
-**Prerequisites: Recursion, Queues, Graph Representation**
+<div align="center"> **Prerequisites: Recursion, Queues, Graph Representation**
 
 ### **Introduction**
 
@@ -16,7 +16,7 @@ To use an example, lets assume the graph above represents restaurants 1,2,3...6 
 
 Depth-first search is an approach where the program recursively visits all the neighbors (adjacent nodes) of a node and stops once it reaches a node with no neighbors. Below is a table of each node and its adjacent neighbors:
 
-| Node | Neighbors |
+<div align="center"> | Node | Neighbors |
 | --- | --- |
 | **1** | 2 5 |
 | --- | --- |
