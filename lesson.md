@@ -25,9 +25,8 @@ Depth-first search is an approach where the program recursively visits all the n
 | **4** | 3 5 6 |
 | **5** | 1 2 4 |
 | **6** | 4 |
-
-###### A table like this is known as an adjacency list in computer science
-###### and it can be constructed using 2D arrays or vectors
+<span font-size:4em;"> A table like this is known as an adjacency list in computer science
+and it can be constructed using 2D arrays or vectors </span>
 
 Using this data, a depth-first search can be simulated, making sure nodes are only visited once:
 
@@ -44,7 +43,7 @@ Given any graph, DFS is guaranteed to eventually visit all nodes and output the 
 
 Breadth-First search, commonly known as BFS, searches the graph level-by-level. Think of the graph above as a social circle; a representation of node 1&#39;s mutual friends/connections. Node 2 and 5 are **directly related** of node 1; while the rest of the nodes are **indirectly related** to node 1 through another node.
 
-<center>
+
 | Node | # of connections away from node 1. |
 | --- | --- |
 | **1** | 0 |
@@ -54,10 +53,9 @@ Breadth-First search, commonly known as BFS, searches the graph level-by-level. 
 | **4** | 2 |
 | **5** | 1 |
 | **6** | 3 |
+Think of the number of connections away from
+node 1 as **levels** , BFS searches level-by-level.
 
-###### Think of the number of connections away from
-###### node 1 as **levels** , BFS searches level-by-level.
-</center>
 A level-by-level search is implemented with a **queue** ; remember that the first element inserted in a queue is the first element to come out (FIFO: First In, First Out). Let&#39;s run a search to find node 6 again:
 
 - Start at node 1 and insert its neighbors, node 2 and 5 in the queue. [2 , 5]
