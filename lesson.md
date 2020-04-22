@@ -26,8 +26,8 @@ Depth-first search is an approach where the program recursively visits all the n
 | **5** | 1 2 4 |
 | **6** | 4 |
 
-<span font-size:4em;> A table like this is known as an adjacency list in computer science
-and it can be constructed using 2D arrays or vectors </span>
+A table like this is known as an adjacency list in computer science
+and it can be constructed using 2D arrays or vectors.
 
 Using this data, a depth-first search can be simulated, making sure nodes are only visited once:
 
