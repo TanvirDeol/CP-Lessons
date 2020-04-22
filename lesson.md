@@ -25,7 +25,8 @@ Depth-first search is an approach where the program recursively visits all the n
 | **4** | 3 5 6 |
 | **5** | 1 2 4 |
 | **6** | 4 |
-<span font-size:4em;"> A table like this is known as an adjacency list in computer science
+
+<span font-size:4em;> A table like this is known as an adjacency list in computer science
 and it can be constructed using 2D arrays or vectors </span>
 
 Using this data, a depth-first search can be simulated, making sure nodes are only visited once:
@@ -53,6 +54,7 @@ Breadth-First search, commonly known as BFS, searches the graph level-by-level. 
 | **4** | 2 |
 | **5** | 1 |
 | **6** | 3 |
+
 Think of the number of connections away from
 node 1 as **levels** , BFS searches level-by-level.
 
