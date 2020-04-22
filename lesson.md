@@ -1,8 +1,8 @@
 # <div align="center">**Breadth First Search vs Depth First Search**
 
-<div align="center"> **Prerequisites: Recursion, Queues, Graph Representation**
+**Prerequisites: Recursion, Queues, Graph Representation**
 
-### <div align="left"> **Introduction**
+###  **Introduction**
 
  ![](RackMultipart20200422-4-hytfpc_html_610487326e0daad3.png) Breadth-first (BFS) search and depth-first search (DFS) are two different ways a graph can be traversed. In the context of computer science, a graph is a representation of a network of nodes, as shown below.
 
