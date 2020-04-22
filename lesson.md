@@ -1,6 +1,6 @@
 # <div align="center">**Breadth First Search vs Depth First Search**
 
-**Prerequisites: Recursion, Queues, Graph Representation**
+##### <div align="center"> **Prerequisites: Recursion, Queues, Graph Representation**
 
 ###  **Introduction**
 
