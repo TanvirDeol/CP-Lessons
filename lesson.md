@@ -1,4 +1,4 @@
-#**Breadth First Search vs Depth First Search**
+# **Breadth First Search vs Depth First Search**
 
 **Prerequisites: Recursion, Queues, Graph Representation**
 
