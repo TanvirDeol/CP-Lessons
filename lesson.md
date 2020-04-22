@@ -2,7 +2,7 @@
 
 <div align="center"> **Prerequisites: Recursion, Queues, Graph Representation**
 
-### **Introduction**
+### <div align="left"> **Introduction**
 
  ![](RackMultipart20200422-4-hytfpc_html_610487326e0daad3.png) Breadth-first (BFS) search and depth-first search (DFS) are two different ways a graph can be traversed. In the context of computer science, a graph is a representation of a network of nodes, as shown below.
 
@@ -16,7 +16,7 @@ To use an example, lets assume the graph above represents restaurants 1,2,3...6 
 
 Depth-first search is an approach where the program recursively visits all the neighbors (adjacent nodes) of a node and stops once it reaches a node with no neighbors. Below is a table of each node and its adjacent neighbors:
 
-<div align="center"> | Node | Neighbors |
+| Node | Neighbors |
 | --- | --- |
 | **1** | 2 5 |
 | --- | --- |
