@@ -19,7 +19,6 @@ Depth-first search is an approach where the program recursively visits all the n
 | Node | Neighbors |
 | --- | --- |
 | **1** | 2 5 |
-| --- | --- |
 | **2** | 1 3 5 |
 | **3** | 2 4 |
 | **4** | 3 5 6 |
@@ -48,7 +47,6 @@ Breadth-First search, commonly known as BFS, searches the graph level-by-level. 
 | Node | # of connections away from node 1. |
 | --- | --- |
 | **1** | 0 |
-| --- | --- |
 | **2** | 1 |
 | **3** | 2 |
 | **4** | 2 |
